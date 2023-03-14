@@ -3,4 +3,4 @@ Security Sensor that uses ultrasonic sensor to detect change in movement and sen
 
 PROJECT START: 2/20/23
 
-LANGAUGE: ARDUINO IDE
+LANGAUGE: ARDUINO IDE / C++
