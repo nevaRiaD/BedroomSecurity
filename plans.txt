@@ -1,0 +1,5 @@
+PLANS 3/13/2023
+	-Add wifi module that allows ESP32 to send data in cloud
+	-Counter that gives data on how long the sensor detects someone
+	-Camera Module that identifies person
+	-Determine precise distance that allows sensor to detect motion
